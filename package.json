@@ -1,0 +1,15 @@
+{
+  "name": "app-src",
+  "version": "1.0.0",
+  "description": "project untuk study club polindra",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hakim Asrori",
+  "license": "ISC",
+  "dependencies": {
+    "arrobefr-jquery-calendar-bs4": "^1.0.3",
+    "bootstrap-year-calendar": "^1.1.1"
+  }
+}
